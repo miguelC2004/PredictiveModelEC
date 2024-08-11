@@ -4,7 +4,7 @@ Predictive Model for Sales Data using Python, MySQL, and Polars, adhering to a C
 
 ## Introduction
 
-This repository contains a predictive model for sales data. The model is built using Python, MySQL, and Polars, and it strictly follows the Edgeclear Core API Style Guide for code organization, naming conventions, and best practices.
+This repository contains a predictive model for sales data. The model is built using Python, MySQL, and Polars, and it strictly follows the Code Complete Style Guide for code organization, naming conventions, and best practices.
 
 ## Project Structure
 
