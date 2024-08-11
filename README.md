@@ -1,6 +1,6 @@
 # PredictiveModelEC
 
-Predictive Model for Sales Data using Python, MySQL, and Polars, adhering to Edgeclear Core API Style Guide.
+Predictive Model for Sales Data using Python, MySQL, and Polars, adhering to a Code Complete Style code.
 
 ## Introduction
 
