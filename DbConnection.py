@@ -5,5 +5,5 @@ def GetConnection():
         host='localhost',
         user='root',
         password='',
-        database=''
+        database='ecommerceconceptual'
     )
